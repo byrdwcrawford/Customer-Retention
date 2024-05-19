@@ -71,16 +71,15 @@ Here are the following evaluation metrics used and what they mean:
 
 Our Best Model is the Feature Scaled, Finetuned Decision Tree.  This produced the following results:
 
-* Accuracy=94.6%
-* False Class Precision=96%
-* True Class Precision=87%
-* False Class Recall=98%
-* True Class Recall=75%
-* Cross Validation=90.3%
-* AUC=88.5%
+![Decision Tree Classifier Confusion Matrix](Images/Decision_Tree_Matrix.png)  
+We can See our Decision Tree Classifer very accurately predicts True Negatives (expected as dataset has mostly negatives) and True Positives.
+![Logistic Regression Confusion Matrix](Images/Logistic_Matrix.png)  
+Our Logistic Regression Model can very accurately predict True Positives.  More work can be done to improve the Prediction rate for True Negatives.
+
 
 ## Limitations
-* Our dataset was fairly small.  It would be interesting as well to see what types of phones each person owned.  I would assume someone with a newer phone may be more prepared to pay for a more expensive plan.
+* Our dataset was fairly small.  It would be interesting as well to see what types of phones each person owned.  I would assume someone with a newer phone may be more prepared to pay for a more expensive plan.  
+There are more models that can be used and more improvements to be made using more sophisticated techniques that we will learn more about and can apply to the next project.
 
 
 ## Next Steps.
