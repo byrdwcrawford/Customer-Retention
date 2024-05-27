@@ -88,7 +88,7 @@ There are more models that can be used and more improvements to be made using mo
 
 ## Recommendations  
 Here is a quick view of our Feature Importances graph.    
-![Feature Importances](Feature_Importance.png)  
+![Feature Importances](Images/Feature_Importance.png)  
 
   
 We can glean the following information from this graph and some solutions to retain them as customers.  Customers who churned had:  
