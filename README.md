@@ -86,6 +86,21 @@ There are more models that can be used and more improvements to be made using mo
 * Review or market trends in cell phone plans
 * Compare international movies for worldwide success.
 
+## Recommendations  
+Here is a quick view of our Feature Importances graph.    
+![Feature Importances](Feature_Importance.png)  
+
+  
+We can glean the following information from this graph and some solutions to retain them as customers.  Customers who churned had:  
+* High bills
+  *  Offer discounts to longtime customers
+* To make more customer service calls
+  *  Improve Customer Service training
+* International plans
+  *  Offer international discounts
+
+
+
 ## Repository Structure
 
 - Repository/
